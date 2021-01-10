@@ -1,1 +1,1 @@
-# Bizarre Image Library
+# JoJo's Bizarre Image Library
